@@ -8,10 +8,18 @@
 
 * [Debug Bar](https://ru.wordpress.org/plugins/debug-bar/) – Добавляет в верхнюю панель отладочное меню, в котором
   отображаются запросы, статистика кеша и другая полезная информация для отладки
+* [Debug Bar Cron](https://ru.wordpress.org/plugins/debug-bar-cron/) - Добавляет панель с информациейзапланированные 
+  cron-события в debug-бар, позволяет просматривать исполнение отложенные задания удобным спсобом.
+* [Debug Bar Console](https://ru.wordpress.org/plugins/debug-bar-console/) Интереактивная консоль позволяющая исполнять
+   введенный php код и SQL запросы прямо из debug-бар 
 * [Log Deprecated Notices](https://ru.wordpress.org/plugins/log-deprecated-notices/) – Выводит уведомления при
   использовании deprecated-функций в PHP
+* [Debug Bar Actions and Filters Addon](https://ru.wordpress.org/plugins/debug-bar-actions-and-filters-addon/) - Выводит хуки вызванные во вермя генерации текущей страницы,показывает функции/методы классов добавленные к хукам, фильтрам 
+* [Kint Debugger](https://ru.wordpress.org/plugins/kint-debugger/) -  Лучшая Альтернатива дебаг принтам, плагин предназначин
+   для того что бы облегчить разработку на WordPress по сути обертка над php библиотекой Kint удобно показывать сожержимое  
+   переменных не зависимо от их типа и стек вызова 
 * [Log Viewer](https://ru.wordpress.org/plugins/log-viewer/) – Плагин для просмотра журнала ошибок (error_log)
-  в Консоли WordPress
+  в Консоли WordPress  
 * [Query Monitor](https://ru.wordpress.org/plugins/query-monitor/) – Один из богатейших по функциональности плагинов
   для просмотра всего и вся о вашем сайте: запросы к базе данных, используемые хуки, информация о теме,
   ошибки PHP, Rewrite Rules и многое другое
