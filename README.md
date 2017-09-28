@@ -10,12 +10,12 @@
   отображаются запросы, статистика кеша и другая полезная информация для отладки
 * [Debug Bar Cron](https://ru.wordpress.org/plugins/debug-bar-cron/) - Добавляет панель с информацией о запланированных 
   cron-событиях в debug-бар, позволяет просматривать исполнение отложенных заданий удобным способом
-* [Debug Bar Console](https://ru.wordpress.org/plugins/debug-bar-console/) Интерактивная консоль, позволяющая исполнять
+* [Debug Bar Console](https://ru.wordpress.org/plugins/debug-bar-console/) – Интерактивная консоль, позволяющая исполнять
    введённый PHP-код и SQL запросы прямо из Debug-панели 
 * [Log Deprecated Notices](https://ru.wordpress.org/plugins/log-deprecated-notices/) – Выводит уведомления при
   использовании deprecated-функций в PHP
-* [Debug Bar Actions and Filters Addon](https://ru.wordpress.org/plugins/debug-bar-actions-and-filters-addon/) - Выводит хуки, вызванные во время генерации текущей страницы, показывает функции/методы классов добавленные к хукам, фильтрам 
-* [Kint Debugger](https://ru.wordpress.org/plugins/kint-debugger/) - Лучшая альтернатива дебаг принтам, плагин предназначен
+* [Debug Bar Actions and Filters Addon](https://ru.wordpress.org/plugins/debug-bar-actions-and-filters-addon/) - Выводит хуки, вызванные во время генерации текущей страницы; показывает функции/методы классов, добавленные к хукам, фильтрам 
+* [Kint Debugger](https://ru.wordpress.org/plugins/kint-debugger/) - Лучшая альтернатива дебаг принтам. Плагин предназначен
    для того, чтобы облегчить разработку на WordPress. По сути это обёртка над PHP-библиотекой Kint для удобного отображения переменных независимо от их типа и стека вызова 
 * [Log Viewer](https://ru.wordpress.org/plugins/log-viewer/) – Плагин для просмотра журнала ошибок (error_log)
   в Консоли WordPress
